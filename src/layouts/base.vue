@@ -93,7 +93,7 @@ export default {
         }
       ],
       miniVariant: false,
-      title: 'Patient '
+      title: 'Patient Hub'
     }
   },
   methods: {
